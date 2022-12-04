@@ -11,3 +11,14 @@ function exibirTipo(limite){
         }
     }
 }
+
+let x = 10
+switch (x) {
+    case value:
+       console.loh(10) 
+        break;
+
+    default:
+    console.log('not 10)'
+} 
+console.log(x)
